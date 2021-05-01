@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimmyShukurow
 - 👀 I’m interested in php Laravel, HTML, CSS, Bootstrap, Javascript, jquery, Javafx, and SpringBoot
-- 🌱 I’m currently learning Java, Javafx, SpringBoot nad Laravel 
+- 🌱 I’m currently learning Java, Javafx, SpringBoot and Laravel 
 - 💞️ I’m looking to collaborate on Laravel and Javascript
 - 📫 How to reach me mail jimishukurow@gmail.com
 
