@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JimmyShukurow
-- 👀 I’m interested in php Laravel, HTML, CSS, Bootstrap, Javascript, Vue, Vuetify, Javafx, and SpringBoot
+- 👀 I’m interested in  Vue, Vuetify, Javafx, and SpringBoot
 - 🌱 I’m currently learning Java, Javafx, SpringBoot
 - 💞️ I’m looking to collaborate on Spring Boot, VUE
 - 📫 How to reach me mail jimishukurow@gmail.com or Linkedin https://www.linkedin.com/in/jemshit-shukurov/
