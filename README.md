@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/JimmyShukurow/JimmyShukurow/blob/main/neo.gif)](https://jemsit.net)
+[![MasterHead](https://github.com/JimmyShukurow/JimmyShukurow/blob/main/bg1.jpg)](https://jemsit.net)
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
 <h3 align="center">A passionate full stack developer from Middle East</h3>
 
