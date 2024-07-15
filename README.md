@@ -1,10 +1,24 @@
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
-<h3 align="left">A passionate full stack developer from Middle East</h3>
+<h3 align="center">A passionate full stack developer from Middle East</h3>
 <img  align="right" alt="Jimmy's github" width="400"  src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmyshukurow&label=Profile%20views&color=0e75b6&style=flat" alt="jimmyshukurow" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimmyshukurow" alt="jimmyshukurow" /></a> </p>
+
+- 🔭 I’m currently working on [chat app](https://chat.jemsit.net)
+
+- 🌱 I’m currently learning **QT, C++, Jetpack Compose and Kotlin**
+
+- 👨‍💻 All of my projects are available at [https://jemsit.net](https://jemsit.net)
+
+- 📝 I regularly write articles on [https://blog.jemsit.net](https://blog.jemsit.net)
+
+- 💬 Ask me about **Java, Spring Boot**
+
+- 📫 How to reach me **mail@jemsit.net**
+
+- 📄 Know about my experiences [https://jemsit.net/Resume.pdf](https://jemsit.net/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
